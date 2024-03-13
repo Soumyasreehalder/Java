@@ -1,3 +1,4 @@
+//postive or negative number
 class posneg 
 {
 	public static void main(String[] args) 
