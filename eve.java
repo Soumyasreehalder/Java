@@ -4,11 +4,11 @@ class eve
 	{
 		int a = -5;
 
-		if (a/2==0)
+		if (a%2==0)
 		{
 			System.out.println("It is a even number");
 		}
-		else if (a/2!=0)
+		else if (a%2!=0)
 		{
 			System.out.println("It is a odd number");
 		}
